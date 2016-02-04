@@ -1,0 +1,9 @@
+body {
+	background-color: gray;
+	background: ("unit_3/images/coffeecups.jpg");
+}
+
+h1, p {
+	color: white;
+
+}
