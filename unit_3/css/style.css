@@ -1,10 +1,10 @@
 body {
 	background-color: gray;
 	background: ("unit_3/images/coffeecups.jpg");
+	text-align: center;
 }
 
 h1, p {
 	color: white;
-	text-align: center;
 
 }
