@@ -9,11 +9,6 @@ h1, p {
 
 }
 
-.bullet {
-	width:200px;
-	margin:0 auto;
-	tex-align:left;
+ul { list-style-position: none; text-align: center;
 }
-ul{
-	list-style-type: square;
-}
+li::before { content: "/2022 ";}
