@@ -11,4 +11,4 @@ h1, p {
 
 ul { list-style-position: none; text-align: center;
 }
-li::before { content: "/2022 ";}
+li::before { content: "\2022 ";}
