@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
 
 body {
 	background-color: #cbcbcc;
@@ -7,8 +7,8 @@ body {
 }
 
 h1 {
+	font-family: 'Oswald', sans-serif;
 	color: #246a7f
-	font-family: 'Lobster', cursive;	 
 
 }
 
