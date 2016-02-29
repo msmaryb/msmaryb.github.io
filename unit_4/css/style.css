@@ -15,9 +15,9 @@ h1 {
 
 #slogan {	
 	font-size: 18px;
-	font-weight: 600;
+	font-weight: normal;
 	font-style: italic;
-	letter-spacing: 2px;
+	letter-spacing: 1px;
 
 }
 
