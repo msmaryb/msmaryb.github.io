@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
 body {
 	background-color: #cbcbcc;
 	text-align: center;
@@ -6,6 +8,7 @@ body {
 
 h1 {
 	color: #246a7f	
+	font-family: 'Lobster', cursive;
 }
 
 #slogan { font-style: italic;
