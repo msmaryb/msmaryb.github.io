@@ -1,13 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
 
 body {
 	background-color: #cbcbcc;
 	text-align: center;
 	color: #212121
+	font-family: 'Oswald', sans-serif;
 }
 
 h1 {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Pacifico', cursive;
 	color: #246a7f
 
 }
