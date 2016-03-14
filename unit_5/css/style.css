@@ -32,6 +32,13 @@ nav {
 	padding: 20px ;
 }
 
+.list {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+
+}
+
 footer {
 	background-color: #FF957E;
 	border: 1px black solid;
