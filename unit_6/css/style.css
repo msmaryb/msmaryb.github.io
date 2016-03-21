@@ -54,6 +54,15 @@ nav {
 	width: 62%;
 }
 
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
 .list {
 	background-color: #E89C6C;
 	border: 1px black solid;
